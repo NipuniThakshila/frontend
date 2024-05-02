@@ -1,0 +1,79 @@
+.frame499{
+    width: Hug (1,064px)px;
+    height: Hug (416px)px;
+    top: 1600px;
+    left: 188px;
+    gap: 108px;
+    opacity: 0px;
+    display: grid;
+    align-items: center;
+
+}
+
+.frame499 .cmt1{
+    width: 414px;
+    height: 416px;
+    gap: 0px;
+    opacity: 0px;
+
+     
+}
+
+.frame92{
+    width: Fixed (542px)px;
+    height: Hug (206px)px;
+    gap: 20px;
+    opacity: 0px;
+
+}
+
+.frame92 h1{
+    width: 507px;
+    height: 33px;
+    gap: 0px;
+    opacity: 0px;
+    list-style-type: Poppins/H3 - Poppins 27px - SemiBold;
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: left;
+    background: rgba(107, 60, 201, 1);
+ 
+
+}
+
+.frame74 button{
+    width: Hug (129px)px;
+    height: Hug (38px)px;
+    padding: 12px 20px 12px 20px;
+    gap: 8px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 1px;
+    background: rgba(242, 141, 53, 1);
+}
+
+.frame74{
+    width: Hug (507px)px;
+    height: Hug (33px)px;
+    gap: 12px;
+    opacity: 0px;
+
+}
+
+.frame74 p{
+    width: 542px;
+    height: 95px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+    background: rgba(0, 0, 0, 1);
+
+
+}
+

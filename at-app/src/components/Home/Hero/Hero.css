@@ -1,0 +1,53 @@
+.hero{
+    background: url("../../images/HeroImage.png");
+    background-size: cover;
+    width: 1440px;
+    height: 700px;
+    top: 77px;
+    gap: 0px;
+    opacity: 1;
+    align-content: center;
+}
+
+.hero-text{
+    width: 174px;
+    height: 14px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    background: linear-gradient(256.73deg, #1CBDDD 27.86%, #4DCA79 100%);
+    
+    
+}
+
+.btn{
+    width: 214px;
+    height: 38px;
+    padding: 12px 20px 12px 20px;
+    gap: 8px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 1px;
+    background: rgba(242, 141, 53, 1);
+
+
+}
+
+.frame-497{
+    width: Fixed (630px)px;
+    height: auto;
+    top: 354px;
+    left: 80px;
+    padding: 24px 40px 32px 40px;
+    gap: 20px;
+    opacity: 0px;
+   
+    
+    
+    
+
+
+}

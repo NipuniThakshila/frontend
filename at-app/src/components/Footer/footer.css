@@ -1,0 +1,169 @@
+footer{
+    width: Fixed (1,440px)px;
+    height: Hug (266px)px;
+    top: 2319px;
+    padding: 40px 80px 20px 80px;
+    gap: 40px;
+    opacity: 0px;
+    background: rgba(107, 60, 201, 1);
+}
+    
+footer .frame503{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    grid-gap: 20px;
+    width: Fill (1,280px)px;
+    height: Hug (141px)px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+}
+  
+footer .frame500{
+    width: Fixed (413px)px;
+    height: Hug (102px)px;
+    gap: 20px;
+    opacity: 0px;
+}
+
+footer .frame500 img{
+    width: 238.89px;
+    height: 36.11px;
+    top: -11.11px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+footer .frame500 .des{
+    width: 413px;
+    height: 57px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+footer .frame502{
+    width: Hug (522px)px;
+    height: Hug (141px)px;
+    gap: 128px;
+    opacity: 0px;
+}
+
+footer .frame501{
+    width: Fixed (197px)px;
+    height: Hug (141px)px;
+    gap: 12px;
+    opacity: 0px;
+}
+
+footer .frame501 h3{
+    width: 179px;
+    height: 25px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25.41px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+footer .frame501-2{
+    width: Hug (56px)px;
+    height: Hug (104px)px;
+    gap: 12px;
+    opacity: 0px;
+}
+
+footer .frame501-2 li{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    list-style: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+footer .frame496{
+    width: Fixed (197px)px;
+    height: Hug (129px)px;
+    gap: 12px;
+    opacity: 0px;
+    
+}
+
+footer .frame496 h3{
+    width: 132px;
+    height: 25px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25.41px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+footer .frame501{
+    width: Fill (197px)px;
+    height: Hug (92px)px;
+    gap: 12px;
+    opacity: 0px;
+}
+
+footer .frame501 li{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    list-style: none;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+footer .frame505{
+    width: Fixed (630px)px;
+    height: Hug (25px)px;
+    gap: 8px;
+    opacity: 0px;
+}
+
+footer .frame505 hr{
+    width: 630px;
+    height: 0px;
+    gap: 0px;
+    order: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(255, 255, 255, 1);
+    align-items: center;
+}
+
+footer.frame504{
+    width: Hug (257px)px;
+    height: Hug (17px)px;
+    gap: 16px;
+    opacity: 0px;
+}
+
+footer .frame504 p{
+    list-style: none;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}
