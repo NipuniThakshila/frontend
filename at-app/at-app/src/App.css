@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.home{
+    width: 1440px;
+    height: 2585px;
+    top: -201px;
+    left: 384px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+
+
+}

@@ -1,0 +1,70 @@
+.wrapper{
+    display: flex;
+    width: Hug (846px)px;
+    height: Hug (392px)px;
+    top: 1847px;
+    left: 297px;
+    gap: 28px;
+    opacity: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.accordian{
+    width: Hug (846px)px;
+    height: Hug (331px)px;
+    gap: 15px;
+    opacity: 0px;
+
+}
+
+.item{
+    width: Fixed (846px)px;
+    height: Hug (149px)px;
+    padding: 24px 0px 0px 0px;
+    gap: 13px;
+    border-radius: 7px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(250, 248, 255, 1);
+}
+
+.title{
+    width: Fill (798px)px;
+    height: Hug (28px)px;
+    gap: 40px;
+    opacity: 0px;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.title p{
+    width: 744px;
+    height: 28px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+
+.title p:hover{
+    color: rgba(107, 60, 201, 1);
+
+}
+.content{
+    color: rgba(111, 108, 144, 1);
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s cubic-bezier(1,0,1,0);
+}
+
+
+.content .show{
+    height: auto;
+    max-height: 9999px;
+    transition: all 0.5s cubic-bezier(1,0,1,0);
+}
